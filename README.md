@@ -41,6 +41,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * **[CSS Tricks](https://css-tricks.com/)**
 * **[A List Apart](http://alistapart.com/)**
 * **[Google PageSpeed Tools](https://developers.google.com/speed/pagespeed/)** - Tools to analyze and optimize your site following web best practices.
+* **[Designing and Debugging with Ducks in Your Web Projects](https://css-tricks.com/designing-debugging-ducks-web-projects/?/utm_source=SitePoint&utm_medium=email&utm_campaign)** - Using the Duck method to work out those pesky bugs!
 
 ### Slack
 
